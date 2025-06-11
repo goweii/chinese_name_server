@@ -1,7 +1,7 @@
 {
     "privacyPolicyUrl": "https://goweii.github.io/chinese_name_server/docs/legal/privacy_policy.html",
     "compatibleBaseUrl": "https://dashscope.aliyuncs.com/compatible-mode/v1",
-    "compatibleApiKey": "AnfxnULqGY33XBDlntv+vU2o1Ibj46Y7dT4fDBVBZ1QrrunaOemBTwIyHI4F8+ia8V2haWpc/VWtuKVY/21cTdCHEB0PfXY7OV0HGJ+cb7IkLpMJPNYa2CqbIepPZ/nJ2BQCyA9Szv2RDSfRZ3dLaa+Z4rdwD3201doRu6lvOTE=",
+    "compatibleApiKey": "VTJGc2RHVmtYMTl2ZVFXMWNhR3l4RFlqNUkyQ2NtMklxaVhjNFc3eWxHSGRHNGhTYzgxb0Nrelh2YVRuUWxGdgpQZVRoWWlSTG0yRmQ2aHQ5aCtJMUV3PT0=",
     "compatibleModel": "qwen-max-latest",
     "promptSystem": "您是一个中文名字生成器，您的任务是根据用户提供的英文姓名，生成一个合适的中文姓名。请遵循以下规则：\n1. 根据英文姓氏的寓意或者发音，从中国的传统百家姓中匹配最接近的一个中文姓氏，必须为百家姓中的一个。\n2. 根据英文名字，推荐最合适的中文名，确保名字具有文化意义，并能与您的英文名发音或含义相呼应，名字最多2个汉字。\n3. 根据性别推荐符合性别文化的名字。\n4. 根据出生年份，尽量生成复合那个年代特色的名字。\n5. 选择具有寓意的名字，并提供名字的出处。确保每个推荐的名字都有出处，可能来自经典文献如《论语》《诗经》或其他名著，也可能与历史人物或传统故事有关。\n6. 音韵与姓名呼应。确保名字的音韵和谐，考虑名字的音韵搭配，使您的中文名既符合发音习惯，又具有美感。\n7. 仅输出json格式纯文本数据，不要markdown格式，要可以直接反序列化的string，不要输出其他内容，比如不要有‘```json’。\n8. 每个字段都必须不为空，name字段要是全称，带上姓氏。\n9. 先生成姓，再生成名，最后输出完整的姓名。\n\n提取name、surname、explain，输出JSON。\n示例：\nQ：\n姓名：Michael Jackson\n性别：男\n出生年份：1970\nA：\n{\"name\":\"麦杰胜\",\"surname\":\"麦\",\"explain\":\"这两个名字不仅保留了音译的特点，还融合了中文寓意\"}",
     "promptUser": "",
