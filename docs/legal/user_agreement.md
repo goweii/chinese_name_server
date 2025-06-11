@@ -1,95 +1,96 @@
-# 用户协议
+# User Agreement
 
-本《用户协议》（以下简称《协议》）是由您（以下简称“用户”）就本服务与我方签订的协议。
+This "User Agreement" (hereinafter referred to as the "Agreement") is an agreement entered into between you (hereinafter referred to as "User") and us regarding the use of our services.
 
-请您务必认真阅读和理解本协议中规定的所有权利和限制，特别是免除或者限制我方责任的条款（以下称“免责条款”）、对用户权利进行限制的条款（以下称“限制条款”）、约定争议解决方式和司法管辖的条款。您一旦注册、登录、使用或以任何方式使用本《协议》所涉及的相关服务的行为将视为对本《协议》的接受，即表示您同意接受本《协议》各项条款的约束。如您不同意本协议的任何条款，则不得注册、下载、安装、使用本软件，不得享用我方提供的服务。如果用户未满18周岁的，需在监护人的陪同下阅读本协议，并在取得监护人对用户享用我方提供的服务、支付费用的行为，以及对本协议全部条款的同意之后，方可享用我方提供的服务。您一旦点击“接受”（或其他具有同样含义的词，如“同意”等），注册我方网络平台账户、安装我方软件，开始使用及/或继续使用我方服务，即视为用户同意并已经接受本协议中全部条款。此后您不得以未阅读/未同意本协议内容或类似理由提出任何形式的抗辩。
+Please read and fully understand all rights and restrictions stipulated in this Agreement, especially the clauses that exempt or limit our liability ("Exemption Clauses"), clauses that restrict user rights ("Restriction Clauses"), and clauses regarding dispute resolution and jurisdiction. By registering, logging in, using, or in any way utilizing the services covered by this Agreement, you are deemed to have accepted this Agreement and agree to be bound by its terms. If you do not agree to any term of this Agreement, you must not register, download, install, or use our software or enjoy our services. If the user is under 18 years old, this Agreement should be read under the supervision of a guardian, and the user may only use our services after obtaining the guardian's consent to the user's use of our services, payment of fees, and agreement to all terms of this Agreement. By clicking "Accept" (or similar terms such as "Agree"), registering an account on our platform, installing our software, or starting to use and/or continuing to use our services, you are deemed to have agreed to and accepted all terms of this Agreement. Thereafter, you may not raise any form of defense on the grounds of not having read or agreed to the contents of this Agreement.
 
-## 一、账号注册、使用与保管
+## 1. Account Registration, Use, and Management
 
-1. 用户在申请使用本服务时，必须向提供准确、真实的个人资料，如个人资料有任何变动，必须及时更新。因用户提供个人资料不准确、不真实而引发的一切后果由用户承担。
-2. 您一旦注册成功成为用户，您将得到一个密码和账号，您需要对自己在账户中的所有活动和事件负全责。如果由于您的过失导致您的账号和密码脱离您的控制，则由此导致的针对您、我方或任何第三方造成的损害，您将承担全部责任。
-3. 用户不应将其账号、密码转让、出借或以任何脱离用户控制的形式交由他人使用。如用户发现其账号遭他人非法使用或有使用异常情况，应立即通知我方。
-   1. 因黑客行为或用户私下泄露、共享、交易账号或其他保管不当行为造成的用户个人或任何其他第三方损失的，我方不承担任何责任，我方亦不负在此情况下为您找回账号的义务。
-   2. 我方根据用户要求对用户账号采取措施暂停账号使用的，应当要求用户提供并核实与其注册身份信息相一致的个人有效身份信息，核对一致后方可采取相应措施，用户应积极配合按照我方要求提供相关信息，否则不予采取措施处理。
-   3. 用户没有按我方要求提供其个人有效身份信息或证明，或者用户提供的个人有效身份信息或证明与所注册的身份信息不一致的，我方有权拒绝您所提出的暂停账号、找回账号等请求。
-   4. 用户应为自身注册账户下的一切行为负责，因用户行为而导致的用户自身或其他任何第三方的任何损失或损害，我方不承担责任。
+1. When applying to use our services, users must provide accurate and truthful personal information and update it promptly if there are any changes. All consequences arising from inaccurate or untruthful information provided by the user shall be borne by the user.
+2. Upon successful registration, you will receive a password and account. You are fully responsible for all activities and events under your account. If your account and password are compromised due to your negligence, you will bear all resulting damages to yourself, us, or any third party.
+3. Users should not transfer, lend, or otherwise allow others to use their accounts or passwords. If you discover unauthorized use or abnormal activity of your account, you should notify us immediately.
+   1. We are not liable for any losses to users or third parties caused by hacking, private disclosure, sharing, trading of accounts, or other improper account management, nor are we obliged to recover accounts in such cases.
+   2. If we take measures to suspend account usage at the user's request, the user must provide and verify personal identification consistent with the registration information. Only after verification will we take corresponding measures. The user should cooperate by providing relevant information as required; otherwise, no action will be taken.
+   3. If the user fails to provide valid identification or the provided identification does not match the registration information, we have the right to refuse requests to suspend or recover the account.
+   4. Users are responsible for all activities under their registered accounts. We are not liable for any losses or damages to the user or any third party resulting from user actions.
 
-## 二、权利与义务
+## 2. Rights and Obligations
 
-1. 我方同意通过互联网络，根据本协议约定，为用户提供服务，我方可根据您提供的手机号码或电子邮箱向您推送我方服务相关信息。
-2. 用户应自行配备上网的所需设备，包括但不限于移动智能设备(包括但不限于手机、平板电脑)、电脑、无线路由器或其他必备上网装置。
-3. 用户自行负担上网所支付的与此服务相关的电信费用、网络使用等费用。
-4. 用户遵守本协议的约定、其他相关规则和制度的规定；遵守国家相关法律法规(还应遵守所属国家或地区的法律法规)。
+1. We agree to provide services to users via the Internet in accordance with this Agreement. We may send you service-related information via the phone number or email you provide.
+2. Users are responsible for providing the necessary equipment for Internet access, including but not limited to mobile smart devices (such as phones, tablets), computers, wireless routers, or other required devices.
+3. Users bear all telecommunication and network usage fees related to accessing our services.
+4. Users must comply with this Agreement, other relevant rules and regulations, and applicable laws and regulations (including those of their own country or region).
 
-## 三、用户守则
+## 3. User Code of Conduct
 
-1. 用户应当自行承担其所发布的信息内容所涉及的责任。特别地，用户不得发布下列内容：
-   1. 反对中华人民共和国宪法所确定的基本原则的；
-   2. 危害国家安全，泄露国家秘密，颠覆国家政权，破坏国家统一的；
-   3. 损害国家荣誉和利益的；
-   4. 煽动民族仇恨、民族歧视，破坏民族团结的；
-   5. 破坏国家宗教政策，宣扬邪教和封建迷信的；
-   6. 散布谣言，扰乱社会秩序，破坏社会稳定的；
-   7. 散布淫秽、色情、赌博、暴力、凶杀、恐怖或者教唆犯罪的；
-   8. 侮辱或者诽谤他人，侵害他人合法权益的；
-   9. 发布任何经我方合理判断为不妥当或者我方未认可的软件、文件等在内的主页地址或者链接的；
-   10. 非法买卖虚拟物品和账号的；
-   11. 含有中华人民共和国法律、行政法规禁止的其他内容的。
-2. 用户不得进行账号的非法交易，不得通过非官方认可充值渠道充值。
-3. 除本条上述情形外，若用户出现其他不符合法律法规、社会公德的骚扰情形，根据情况将可能受到以下处罚：警告；永久冻结；暂时禁止登录；永久禁止登录；封停账号；删除档案；承担法律责任。
+1. Users are solely responsible for the content they publish. In particular, users must not publish content that:
+   1. Opposes the basic principles established by the Constitution of the People's Republic of China;
+   2. Endangers national security, discloses state secrets, subverts state power, or undermines national unity;
+   3. Damages national honor and interests;
+   4. Incites ethnic hatred or discrimination, undermines ethnic unity;
+   5. Undermines national religious policies, promotes cults or feudal superstitions;
+   6. Spreads rumors, disrupts social order, or undermines social stability;
+   7. Spreads obscenity, pornography, gambling, violence, murder, terror, or incites crime;
+   8. Insults or defames others, infringes on the lawful rights and interests of others;
+   9. Publishes any homepage address or link to software or files deemed inappropriate or unapproved by us;
+   10. Engages in illegal trading of virtual items or accounts;
+   11. Contains other content prohibited by laws and regulations of the People's Republic of China.
+2. Users must not engage in illegal trading of accounts or recharge through unofficial channels.
+3. In addition to the above, users engaging in other illegal, unethical, or harassing behavior may be subject to penalties including warnings, permanent or temporary suspension, account bans, profile deletion, or legal liability.
 
-## 四、资费政策
+## 4. Fee Policy
 
-我方有权决定我方所提供的产品和服务的资费标准和收费方式，我方可能会就不同的产品和服务制定不同的资费标准和收费方式，也可能按照我方所提供的产品和服务的不同阶段确定不同的资费标准和收费方式。
+We reserve the right to determine the pricing and payment methods for our products and services. We may set different pricing and payment methods for different products and services, or for different stages of products and services.
 
-我方也可能不时地修改我方的资费政策。我方会将有关产品和服务的收费信息以及与该产品和服务有关的资费标准、收费方式、购买方式或其他有关资费政策的信息放置在该产品和服务相关网页的显著位置。
+We may modify our fee policy from time to time. Information about product and service charges, pricing, payment methods, purchase methods, or other fee-related policies will be posted prominently on the relevant product or service webpage.
 
-对于我方的收费产品和服务，用户应该按照我方确定的资费政策购买我方的产品和服务。如果用户未按我方确定的资费政策购买我方的产品和服务，我方可以立即停止向用户提供该产品和服务。
+For paid products and services, users must purchase according to our fee policy. If users do not comply, we may immediately stop providing the relevant products and services.
 
-## 五、服务变更、中断或终止
+## 5. Service Changes, Interruptions, or Termination
 
-1. 鉴于网络服务的特殊性，用户同意我方有权根据业务发展情况随时变更、中断或终止部分或全部的网络服务而无需通知用户，也无需对任何用户或任何第三方承担任何责任；
-2. 用户理解，我方需要定期或不定期地对提供网络服务的平台（如互联网网站、移动网络等）或相关的设备进行检修或者维护，如因此类情况而造成网络服务在合理时间内的中断，我方无需为此承担任何责任，但我方应尽可能事先进行通告。
-3. 如发生下列任何一种情形，我方有权随时中断或终止向用户提供本《协议》项下的网络服务（包括收费网络服务）而无需对用户或任何第三方承担任何责任：
-   1. 用户提供的个人资料不真实；
-   2. 用户违反本《协议》中规定的使用规则。
+1. Due to the special nature of network services, users agree that we may change, interrupt, or terminate some or all network services at any time without notice or liability to any user or third party.
+2. Users understand that we may need to periodically or occasionally maintain or repair the service platform (such as websites, mobile networks) or related equipment. We are not liable for service interruptions during reasonable maintenance periods but will try to provide advance notice where possible.
+3. We may interrupt or terminate services (including paid services) at any time without liability if:
+   1. The user provides false information;
+   2. The user violates the usage rules stipulated in this Agreement.
 
-## 六、知识产权
+## 6. Intellectual Property
 
-1. 我方提供的网络服务中包含的任何文本、图片、图形、音频和/或视频资料均受版权、商标和/或其它财产所有权法律 的保护，未经相关权利人同意，上述资料均不得用于任何商业目的。
-2. 我方为提供网络服务而使用的任何软件（包括但不限于软件中所含的任何图像、照片、动画、录像、录音、音乐、文字和附加程序、随附的帮助材料）的一切权利均属于该软件的著作权人，未经该软件的著作权人许可，用户不得对该软件进行反向工程、、反向编译、或反汇编。
+1. Any text, images, graphics, audio, and/or video materials included in our network services are protected by copyright, trademark, or other property laws. Without the consent of the rights holder, such materials may not be used for any commercial purpose.
+2. All rights to any software used to provide network services (including but not limited to images, photos, animations, videos, audio, music, text, additional programs, and accompanying help materials) belong to the software's copyright owner. Without permission, users may not reverse engineer, decompile, or disassemble the software.
 
-## 七、隐私保护
+## 7. Privacy Protection
 
-1. 保护用户隐私是我方的一项基本政策，我方保证不对外公开或向第三方提供单个用户的注册资料及用户在使用网络服务时存储在我方的非公开内容，但下列情况除外：
-   1. 事先获得用户的明确授权；
-   2. 根据有关的法律法规要求；
-   3. 按照相关政府主管部门的要求；
-   4. 为维护社会公众的利益；
-   5. 为维护我方的合法权益。
-2. 我方可能会与第三方合作向用户提供相关的网络服务，在此情况下，如该第三方同意承担与我方同等的保护用户隐私的责任，则我方有权将用户的注册资料等提供给该第三方。
-3. 在不透露单个用户隐私资料的前提下，我方有权对整个用户数据库进行分析并对用户数据库进行商业上的利用。
-4. 我方制定了以下四项隐私权保护原则，指导我们如何来处理产品中涉及到用户隐私权和用户信息等方面的问题：
-   1. 利用我们收集的信息为用户提供有价值的产品和服务。
-   2. 开发符合隐私权标准和隐私权惯例的产品。
-   3. 将个人信息的收集透明化，并由权威第三方监督。
-   4. 尽最大的努力保护我们掌握的信息。
+1. Protecting user privacy is a fundamental policy. We guarantee not to disclose or provide individual user registration information or non-public content stored during use to third parties, except in the following cases:
+   1. With the user's explicit authorization;
+   2. As required by laws and regulations;
+   3. At the request of relevant government authorities;
+   4. To protect public interest;
+   5. To protect our legitimate rights and interests.
+2. We may cooperate with third parties to provide related network services. In such cases, if the third party agrees to assume the same privacy protection responsibilities as us, we may provide user registration information to the third party.
+3. Without disclosing individual user information, we have the right to analyze and commercially use the entire user database.
+4. We have established the following four privacy protection principles to guide how we handle user privacy and information:
+   1. Use collected information to provide valuable products and services to users.
+   2. Develop products that comply with privacy standards and practices.
+   3. Make personal information collection transparent and subject to third-party supervision.
+   4. Make every effort to protect the information we hold.
 
-## 八、免责声明
+## 8. Disclaimer
 
-1. 我方不担保网络服务一定能满足用户的要求，也不担保网络服务不会中断，对网络服务的及时性、安全性、准确性也都不作担保。
-2. 我方不保证为向用户提供便利而设置的外部链接的准确性和完整性，同时，对于该等外部链接指向的不由我方实际控制的任何网页上的内容，我方不承担任何责任。
-3. 对于因电信系统或互联网网络故障、计算机故障或病毒、信息损坏或丢失、计算机系统问题或其它任何不可抗力原因而产生损失，我方不承担任何责任，但将尽力减少因此而给用户造成的损失和影响。
-4. 用户可能在使用我方的产品和服务过程中链接到第三方的站点。第三方的站点不由我方控制，并且我方也不对任何第三方站点的内容、第三方站点包含的任何链接、或第三方站点的任何更改或更新负责。我方仅为了提供便利的目的而向用户提供这些到第三方站点的链接，我方所提供的这些链接并不意味着我方认可该第三方站点。用户需要检查并遵守该第三方站点的相关规定。
-5. 因用户违反本协议约定的相关守则，我方按本协议约定采取相关措施的，我方不承担任何赔偿责任，用户因此造成第三方损失的，我方不承担任何责任。
-6. 因本应用程序包含人工智能生成的内容，请理性辨别内容的正确性。如关于医疗的部分，在做出任何医疗决定之前，还应寻求医生的建议。
+1. We do not guarantee that network services will meet user requirements or be uninterrupted, timely, secure, or accurate.
+2. We do not guarantee the accuracy or completeness of external links provided for user convenience. We are not responsible for the content of any external websites not under our control.
+3. We are not liable for losses caused by telecommunication or Internet failures, computer failures or viruses, information damage or loss, system problems, or other force majeure, but will try to minimize losses and impact.
+4. Users may link to third-party sites while using our products and services. We do not control third-party sites and are not responsible for their content, links, or changes. Providing such links does not imply our endorsement. Users should review and comply with the relevant policies of third-party sites.
+5. We are not liable for any compensation if we take measures in accordance with this Agreement due to user violations. We are not responsible for losses to third parties caused by user violations.
+6. As this application contains AI-generated content, please use discretion regarding its accuracy. For medical-related content, always consult a doctor before making any decisions.
 
-## 九、法律适用及争议解决
+## 9. Governing Law and Dispute Resolution
 
-1. 本协议适用国家法律。
-2. 因本协议引起的或与本协议有关的任何争议，各方应友好协商解决；协商不成的，任何一方均可将有关争议提交至我方所在地法院诉讼解。
+1. This Agreement is governed by national laws.
+2. Any disputes arising from or related to this Agreement shall be resolved through friendly negotiation. If negotiation fails, either party may submit the dispute to the court at our location.
 
-## 十、其他条款
+## 10. Miscellaneous
 
-1. 如果本协议中的任何条款无论因何种原因完全或部分无效或不具有执行力，或违反任何适用的法律，则该条款被视为删除，但本协议的其余条款仍应有效并且有约束力。
-2. 我方有权随时根据有关法律、法规的变化以及公司经营状况和经营策略的调整等修改本协议，而无需另行单独通知用户。修改后的协议会在应用内查看。当发生有关争议时，以最新的协议文本为准。如果不同意我方对本协议相关条款所做的修改，用户有权停止使用网络服务。如果用户继续使用网络服务，则视为用户接受我方对本协议相关条款所。
+1. If any provision of this Agreement is invalid, unenforceable, or violates applicable law, that provision shall be deemed deleted, but the remaining provisions shall remain valid and binding.
+2. We reserve the right to modify this Agreement at any time according to changes in laws, regulations, company operations, or business strategies, without separate notice to users. The revised Agreement will be available in the application. In case of disputes, the latest Agreement text shall prevail. If you do not agree to the modifications, you have the right to stop using the services. If you continue to use the services, you are deemed to have accepted the modifications.
+

@@ -1,170 +1,173 @@
-# 隐私政策
+# Privacy Policy
 
-尊敬的用户（以下简称“您”），为了便于您使用“我的中文名” APP（以下简称“本应用”），本应用会按照《隐私政策》(以下简称“本政策”)的约定，收集、使用、存储和对外提供您的个人信息。本政策适用于您通过任何方式对本应用的访问和使用。
+Dear user ("you"), in order to facilitate your use of the "My Chinese Name" app ("this app"), this app will collect, use, store, and provide your personal information externally in accordance with the provisions of this Privacy Policy ("this policy"). This policy applies to your access and use of this app in any manner.
 
-请您仔细阅读本政策，并确定理解我方对您个人信息的处理规则。如您有任何疑问，可联系本应用官方邮件 <cuizhen92@gmail.com>。如您点击“同意”并确认提交、使用本应用或在我方更新本政策后（我方会及时通知您更新的情况）继续使用本应用，即视为您同意本政策(含更新版本)内容，并且同意我方按照本政策收集、使用、保存和对外提供您的个人信息。
-您可以根据以下索引阅读相应章节，进一步详细了解我方隐私政策的具体约定：
+Please read this policy carefully and make sure you understand our rules for handling your personal information. If you have any questions, you can contact the official email of this app at <cuizhen92@gmail.com>. If you click "Agree" and confirm submission, use this app, or continue to use this app after we update this policy (we will notify you of updates in a timely manner), it is deemed that you agree to the content of this policy (including updated versions) and agree that we collect, use, store, and provide your personal information externally in accordance with this policy.
 
-- 一、我方如何收集与使用您的个人信息
-- 二、我方如何共享、转让和公开披露您的个人信息
-- 三、我方如何保存您的个人信息
-- 四、您如何管理您的个人信息
-- 五、我方如何保护您的个人信息
-- 六、我方如何保护未成年人信息
-- 七、本政策如何更新
-- 八、我方如何向您发送信息
-- 九、如何联系我方
-- 十、其它
+You can read the corresponding sections according to the following index to further understand the specific provisions of our privacy policy:
 
-## 一、我方如何收集与使用您的个人信息
+- I. How We Collect and Use Your Personal Information
+- II. How We Share, Transfer, and Publicly Disclose Your Personal Information
+- III. How We Store Your Personal Information
+- IV. How You Manage Your Personal Information
+- V. How We Protect Your Personal Information
+- VI. How We Protect Minors' Information
+- VII. How This Policy Is Updated
+- VIII. How We Send Information to You
+- IX. How to Contact Us
+- X. Others
 
-### （一）信息的收集
+## I. How We Collect and Use Your Personal Information
 
-为保障您使用本应用过程的安全性，改善您的使用体验，我方会收集、使用和保存下列与您有关的信息。如果您不提供相关信息，您将无法享受我方提供的以下对应服务：
+### (1) Information Collection
 
-1. 当您注册本应用时，您需要输入姓名、性别和出生年份，我们仅使用这些信息用来生成符合的中文名，并不会用于其他用途，也不会存储。
-4. 如我方在使用您的个人信息，超出了与收集时所声称的目的及具有直接或合理关联的范围，我方将在使用您的个人信息前，再次向您告知并征得您的明示同意。
+To ensure the security of your use of this app and improve your experience, we will collect, use, and store the following information related to you. If you do not provide relevant information, you will not be able to enjoy the corresponding services we provide:
 
-### （二）信息的使用
+1. When you register for this app, you need to enter your name, gender, and year of birth. We only use this information to generate a suitable Chinese name and will not use it for other purposes or store it.
+2. If we use your personal information beyond the purposes stated at the time of collection and the directly or reasonably related scope, we will inform you again and obtain your explicit consent before using your personal information.
 
-1. 在我方向您提供政务便民服务期间，您授权我方持续收集您的信息。在符合相关法律法规的前提下，我们可能将收集的信息用作以下用途：
-    1. 服务优化和开发。例如，我们会根据本应用系统响应您的需求时产生的信息，优化我们的服务，但这些信息不会包含您的任何身份识别信息。
-    2. 保护您或其他用户或公众的人身财产安全免遭侵害，更好地预防钓鱼网站、欺诈、网络漏洞、计算机病毒、网络攻击、网络侵入等安全风险，更准确地识别违反法律法规或本应用相关协议、规则的情况，我们可能使用您的帐号信息、并整合设备信息、有关网络日志以及有关政府机构、合作伙伴分享的信息，来判断您账号风险、进行身份验证、安全事件的检测及防范，并依法采取必要的记录、审计、分析、处置措施。例如，我们会将您的信息用于身份验证、安全防范、投诉处理、纠纷协调、诈骗监测等用途。您在使用安全功能或其他类似服务时，我们会对恶意程序或病毒进行检测，或为您识别诈骗信息。
-2. 在收集您的个人信息后，我方将利用技术手段对您的信息进行去标识化、加密或匿名化处理，通过这些去标识化、加密或匿名化的信息将无法识别您的具体信息主体身份。
-3. 您授权同意的以及法律法规规定、监管要求的其它用途。
+### (2) Information Usage
 
-### （三）征得授权同意的例外
+1. During the period we provide you with government convenience services, you authorize us to continuously collect your information. Under the premise of complying with relevant laws and regulations, we may use the collected information for the following purposes:
+    1. Service optimization and development. For example, we will optimize our services based on information generated when the app system responds to your needs, but this information will not contain any of your personally identifiable information.
+    2. To protect the personal and property safety of you, other users, or the public from harm, better prevent phishing websites, fraud, network vulnerabilities, computer viruses, cyberattacks, network intrusions, and other security risks, and more accurately identify violations of laws, regulations, or relevant agreements and rules of this app, we may use your account information, integrate device information, relevant network logs, and information shared by government agencies or partners to determine account risks, perform identity verification, detect and prevent security incidents, and take necessary recording, auditing, analysis, and disposal measures in accordance with the law. For example, we will use your information for identity verification, security prevention, complaint handling, dispute coordination, fraud monitoring, etc. When you use security features or similar services, we will detect malicious programs or viruses or identify fraudulent information for you.
+2. After collecting your personal information, we will use technical means to de-identify, encrypt, or anonymize your information. Through such de-identified, encrypted, or anonymized information, it will not be possible to identify your specific identity.
+3. Other uses authorized by you and required by laws, regulations, and regulatory requirements.
 
-根据相关法律法规、监管要求及国家标准，以下情形中，我方可能会收集、使用您的相关个人信息而无需另行征求您的授权同意：
+### (3) Exceptions to Obtaining Authorized Consent
 
-1. 与国家安全、国防安全直接相关的；
-2. 与公共安全、公共卫生、重大公共利益直接相关的；
-3. 与犯罪侦查、起诉、审判和判决执行等直接相关的；
-4. 出于维护您或其他个人的生命、财产等重大合法权益但又很难得到您本人同意的；
-5. 收集的个人信息是您自行向社会公众公开的；
-6. 合法公开披露的信息中收集个人信息的，如合法的新闻报道、政府信息公开等渠道；
-7. 根据您要求签订和履行合同所必需的；
-8. 对于维护我方所提供的产品或服务的安全稳定运行所必需的，例如发现、处置产品或服务的故障、欺诈或被盗用等；
-9. 法律法规规定、监管要求及行业主管部门有关规定的义务相关的。
+According to relevant laws, regulations, regulatory requirements, and national standards, in the following circumstances, we may collect and use your relevant personal information without obtaining your authorized consent:
 
-## 二、我方如何共享、转让和公开披露您的个人信息
+1. Directly related to national security or national defense security;
+2. Directly related to public safety, public health, or major public interests;
+3. Directly related to criminal investigation, prosecution, trial, and execution of judgments;
+4. For the purpose of safeguarding your or other individuals' major legitimate rights and interests such as life and property, but it is difficult to obtain your consent;
+5. The personal information collected is disclosed to the public by yourself;
+6. Collecting personal information from legally disclosed information, such as legal news reports, government information disclosure, etc.;
+7. Necessary for signing and performing contracts at your request;
+8. Necessary for maintaining the safe and stable operation of the products or services we provide, such as discovering and handling faults, fraud, or misuse of products or services;
+9. Other obligations related to laws, regulations, regulatory requirements, and industry authorities.
 
-### （一）共享
+## II. How We Share, Transfer, and Publicly Disclose Your Personal Information
 
-我方不会与我方以外的公司、组织和个人共享您的个人信息，但以下情况除外
+### (1) Sharing
 
-1. 在获取明确同意的情况下共享：获得您的明确同意后，我方会与其他方共享您的用户信息；
-2. 在法定情形下的共享：我方可能会根据法律法规规定、监管要求、诉讼争议解决需要，或按行政、司法机关依法提出的要求，对外共享您的个人信息。
-3. 为了促成办理服务或协助解决争议，某些情况下只有共享您的用户信息，才能促成办理或处理您与他人的纠纷或争议。
-4. 与我方合作的第三方服务方共享：为便于我方向您提供服务，您的个人信息可能会在我方与我方合作的第三方服务方共享。我方只会共享姓名、证件类型、证件号码、设备信息及其他使用我方合作的第三方服务方的产品或服务所必要的个人信息，如果我方共享您的除上述必要个人信息以外的其他个人信息，或我方合作的第三方服务方改变个人信息的使用及处理目的，我方将再次征求您的明示同意。
-5. 我方可能会向移动设备或短信厂商提供您的部分账号信息，以便及时向您的移动设备发送消息或服务通知。
+We will not share your personal information with companies, organizations, and individuals outside of us, except in the following cases:
 
-### （二）转让
+1. Sharing with explicit consent: With your explicit consent, we will share your user information with other parties;
+2. Sharing under statutory circumstances: We may share your personal information externally as required by laws, regulations, regulatory requirements, dispute resolution needs, or as required by administrative or judicial authorities;
+3. To facilitate service processing or assist in resolving disputes, in some cases, only by sharing your user information can we facilitate processing or handle disputes between you and others;
+4. Sharing with third-party service providers cooperating with us: To facilitate our provision of services to you, your personal information may be shared between us and third-party service providers cooperating with us. We will only share your name, ID type, ID number, device information, and other personal information necessary for using the products or services of third-party service providers. If we share other personal information beyond the above necessary personal information, or if third-party service providers change the purpose of use and processing of personal information, we will obtain your explicit consent again;
+5. We may provide part of your account information to mobile device or SMS vendors to send messages or service notifications to your mobile device in a timely manner.
 
-我方不会将您的个人信息转让给任何公司、组织机构和个人。但以下情况除外：
+### (2) Transfer
 
-1. 事先获得您的同意。
-2. 根据适用的法律法规、法律程序的要求、强制性的行政或司法要求所必须的情况进行提供。
+We will not transfer your personal information to any company, organization, or individual, except in the following cases:
 
-### （三）公开披露
+1. Obtaining your consent in advance;
+2. Providing as required by applicable laws, regulations, legal procedures, or mandatory administrative or judicial requirements.
 
-我方仅会在以下情况下，公开披露您的个人信息：
+### (3) Public Disclosure
 
-1. 获得您明示同意或基于您的主动选择，我方可能会公开披露您的个人信息；
-2. 如果我方确定您出现违反法律法规或严重违反我方相关协议规则的情况，或为保护我方或公众的人身财产安全免遭侵害，我方可能依据法律法规，遵守法院判决、裁定或其他法律程序的规定，遵守相关政府机关或其他有权机关的要求或我方相关协议规则公开披露您的个人信息，包括相关违规行为以及我方已对您采取的措施。
-3. 根据国家政策安排或法律规定，我方以及有关政府机构有可能进行组织架构调整、资产调配、转让或类似的交易，您的信息有可能作为其中一部分而被转移。我们将遵守相关法律法规的要求，在转移前通知您，确保信息在转移时的机密性，以及变更后继续履行相应责任和义务。
+We will only publicly disclose your personal information in the following circumstances:
 
-### （四）共享、转让、公开披露个人信息时事先征得授权同意的例外
+1. With your explicit consent or based on your active choice, we may publicly disclose your personal information;
+2. If we determine that you have violated laws, regulations, or seriously violated our relevant agreements and rules, or to protect our or the public's personal and property safety from harm, we may publicly disclose your personal information in accordance with laws and regulations, comply with court judgments, rulings, or other legal procedures, comply with relevant government agencies or other competent authorities' requirements, or our relevant agreements and rules, including relevant violations and measures we have taken against you;
+3. According to national policy arrangements or legal provisions, we and relevant government agencies may conduct organizational restructuring, asset allocation, transfer, or similar transactions, and your information may be transferred as part of it. We will comply with relevant laws and regulations, notify you before the transfer, ensure the confidentiality of information during the transfer, and continue to fulfill corresponding responsibilities and obligations after the change.
 
-以下情形中，共享、转让、公开披露您的个人信息无需事先征得您的授权同意：
+### (4) Exceptions to Prior Authorized Consent for Sharing, Transfer, and Public Disclosure
 
-1. 与国家安全、国防安全有关的；
-2. 与公共安全、公共卫生、重大公共利益有关的；
-3. 与犯罪侦查、起诉、审判和判决执行等有关的；
-4. 出于维护您或其他个人的生命、财产等重大合法权益但又很难得到本人同意的；
-5. 您自行向社会公众公开的个人信息；
-6. 从合法公开披露的信息中收集个人信息的，如合法的新闻报道、政府信息公开等渠道；
-7. 与我方履行法律法规规定、监管要求以及行业主管部门规定的义务相关的其他情形。
+In the following circumstances, sharing, transferring, and publicly disclosing your personal information does not require your prior authorized consent:
 
-## 三、我方如何保存您的个人信息
+1. Related to national security or national defense security;
+2. Related to public safety, public health, or major public interests;
+3. Related to criminal investigation, prosecution, trial, and execution of judgments;
+4. For the purpose of safeguarding your or other individuals' major legitimate rights and interests such as life and property, but it is difficult to obtain your consent;
+5. Personal information you disclose to the public yourself;
+6. Collecting personal information from legally disclosed information, such as legal news reports, government information disclosure, etc.;
+7. Other circumstances related to our fulfillment of obligations stipulated by laws, regulations, regulatory requirements, and industry authorities.
 
-我们在中华人民共和国境内收集和产生的个人信息将存储在中华人民共和国境内。我们仅在本政策所述目的所必需期和法律法规、监管规定的时限内保存您的个人信息，超出保存期限后，我们将对所收集的信息进行匿名化处理。
+## III. How We Store Your Personal Information
 
-您在使用本应用服务期间，我方将持续为您保存您的个人信息。在您注销本应用账号后，我方仅在法律法规规定、监管要求的期限内，以及为实现本政策声明的目的所必须的时限内保留您的个人信息。超出上述个人信息保存期限后，我方会对您的个人信息进行删除或匿名化处理。
+Personal information collected and generated within the territory of the People's Republic of China will be stored within the territory of the People's Republic of China. We will only retain your personal information for the period necessary for the purposes described in this policy and within the time limits required by laws, regulations, and regulatory requirements. After the retention period is exceeded, we will anonymize the collected information.
 
-## 四、您如何管理您的个人信息
+During your use of this app's services, we will continue to retain your personal information. After you cancel your app account, we will only retain your personal information within the period required by laws, regulations, and regulatory requirements, and for the period necessary to achieve the purposes stated in this policy. After the above retention period is exceeded, we will delete or anonymize your personal information.
 
-### （一）查看及修改您的个人信息
+## IV. How You Manage Your Personal Information
 
-1. 您登录本应用后，可以在“我的”中，查看或自行修改您的用户信息资料；
-2. 您可以在“我的-设置-修改密码”中，查看或重置登录密码。
-3. 您可以在“我的-隐私政策”中查看最新版本的本应用用户隐私政策。
-4. 更正或补充您的个人信息：当您发现本应用处理的关于您的个人信息有错误时，您有权要求本应用做出更正或补充。
+### (1) Viewing and Modifying Your Personal Information
 
-### （二）改变您授权同意的范围或撤回您的授权
+1. You can modify your user information by yourself during use;
+2. You can view the latest version of this app's user privacy policy in the "Privacy Policy";
+3. Correction or supplementation of your personal information: When you find that the personal information processed by this app about you is incorrect, you have the right to request this app to correct or supplement it.
 
-您可以通过注销账号、删除应用中所有用户信息、卸载本应用的方式撤回全部隐私授权，我方将不会再收集、使用或对外提供与该账号相关的个人信息，但您在使用我方服务期间提供或产生的信息，我方仍需按照监管要求的时间进行匿名化保存，且在该依法保存的时间内有权机关仍有权依法查询。
-您也可以通过在手机操作系统中修改隐私设置的方式改变部分您授权我方继续收集个人信息的范围或撤销您的授权。
-当您撤回同意或授权后，我方无法继续为您提供撤回同意或授权所对应的便民服务。但您撤回同意或授权的决定，不会影响此前我方基于您的授权而开展的使用、存储和对外提供您个人信息的处理。
+### (2) Changing or Withdrawing Your Authorized Consent
 
-### （三）注销用户管理
+You can withdraw all privacy authorizations by canceling your account, deleting all user information in the app, or uninstalling this app. We will no longer collect, use, or provide externally any personal information related to that account. However, information you provided or generated during your use of our services will still be anonymized and retained as required by regulatory requirements, and competent authorities will still have the right to inquire during the legally required retention period.
 
-您可以在“个人中心-设置-账号注销”里注销账号。在您注销账号前，我们将验证您的个人身份、安全状态、设备信息等。有关注销的流程和内容。您知悉并理解，注销账号的行为是不可逆的行为。在您注销账号之后，我们将停止为您提供服务，并依据您的要求删除您的个人信息，法律法规另有规定的除外。
+You can also change the scope of your authorization for us to continue collecting personal information or revoke your authorization by modifying privacy settings in your mobile operating system.
 
-### （四）访问、修改、删除、注销账号
+After you withdraw your consent or authorization, we will not be able to continue providing you with the convenience services corresponding to the withdrawn consent or authorization. However, your decision to withdraw consent or authorization will not affect the previous processing of your personal information based on your authorization.
 
-在访问、修改、删除、注销账号的相关信息时，我们可能会要求您进行身份验证并审核合法性，以保障账号安全。请您理解，由于技术所限、基于法律法规要求，您的某些请求可能无法进行响应。基于法律法规要求、保障信息安全等正当事由，您的部分信息可能无法访问、修改和删除。
+### (3) Account Cancellation Management
 
-### （五）响应您的上述请求
+You can cancel your account in "Personal Center - Settings - Account Cancellation". Before you cancel your account, we will verify your personal identity, security status, device information, etc., regarding the cancellation process and content. You acknowledge and understand that account cancellation is irreversible. After you cancel your account, we will stop providing you with services and delete your personal information as required, except as otherwise provided by laws and regulations.
 
-为保障安全，您可能需要提供书面请求，或以其他方式证明您的身份。我方可能会先要求您验证自己的身份，然后再处理您的请求。请您理解，对于某些无端重复、需要过多技术手段、给他人合法权益带来风险或者非常不切实际的请求，我方可能会予以拒绝。
+### (4) Access, Modification, Deletion, and Account Cancellation
 
-尽管有上述约定，但按照法律法规要求，如涉及以下情形我方将可能无法响应您的请求：
+When accessing, modifying, deleting, or canceling account-related information, we may require you to verify your identity and review the legitimacy to ensure account security. Please understand that due to technical limitations and legal requirements, some of your requests may not be fulfilled. For legitimate reasons such as legal requirements and information security, some of your information may not be accessible, modifiable, or deletable.
 
-1. 与国家安全、国防安全相关的；
-2. 与公共安全、公共卫生、重大公共利益相关的；
-3. 与犯罪侦查、起诉、审判和判决执行等相关的；
-4. 有充分证据表明您存在主观恶意或滥用权利的；
-5. 响应您的请求将导致您或其他个人、组织的合法权益受到严重损害的；
-6. 涉及商业秘密的；
-7. 为履行反洗钱和制裁规定。
+### (5) Responding to Your Requests
 
-## 五、我方如何保护您的个人信息
+For security, you may need to provide a written request or otherwise prove your identity. We may first require you to verify your identity before processing your request. Please understand that for certain unreasonable, repetitive, technically demanding, risky to others' legitimate rights and interests, or highly impractical requests, we may refuse them.
 
-我方努力为用户的个人信息安全提供保障，以防止信息的丢失、不当使用、未经授权访问或公开披露。
+Despite the above, as required by laws and regulations, we may not be able to respond to your request in the following circumstances:
 
-1. 为了保障您的信息安全，我方将在法律法规相关规定要求和现有技术水平下使用符合业界标准的安全保护措施保护您提供的个人信息，采取物理、技术和行政管理安全措施降低丢失、误用、非授权访问、披露和更改的风险，尽力防止数据遭到未经授权的访问、公开披露、使用、修改、损坏或丢失。目前，我方已经通过了国家信息安全等级保护（三级）的测评和备案。
-2. 我方依照法律法规的规定，将在境内运营过程中收集和产生的您的个人信息存储于中华人民共和国境内。目前，我方不会将上述信息传输至境外。
-3. 我方建立专门的管理制度、流程和组织以保障信息的安全，严格限制访问信息的人员范围，要求他们遵守保密义务，并进行审计。
-4. 如果我方提供的全部或部分便民服务停止使用，我方将通过消息通知、弹框等形式向您进行告知，同时停止相关服务对您个人信息的收集等操作，保护您的个人信息安全。如因技术故障、网络攻击、自然灾害及事故、人为因素等各种原因造成全部或部分便民服务无法使用，我方将采取应急处置和恢复措施予以应对，尽快恢复服务。
-5. 互联网环境并非百分之百安全，我方将尽力确保您的个人信息安全性。如果我们的物理、技术、或管理防护设施遭到破坏，导致发生信息被非授权访问、公开披露、篡改、或毁坏及其它个人信息泄露安全事件，我方会启动应急预案，阻止安全事件扩大，并以消息通知等形式将相关情况告知您。同时，我方还将按照监管要求，上报个人信息安全事件的处置情况。
-6. 您在使用本应用服务时，我方会通过您的手机号码、姓名、身份证号或者其他身份验证信息来识别您的身份，请您务必妥善保管上述信息，包括但不限于使用复杂密码、定期修改密码、不将自己的账号密码及相关个人信息透露给他人。一旦您泄露了上述信息，您的账号信息可能因此泄露，并可能使您的资金安全等个人权益遭受损失。
-7. 我方会采取一切合理可行的措施，确保未收集与您所办理业务无关的个人信息。
+1. Related to national security or national defense security;
+2. Related to public safety, public health, or major public interests;
+3. Related to criminal investigation, prosecution, trial, and execution of judgments;
+4. There is sufficient evidence that you have subjective malice or abuse of rights;
+5. Responding to your request will cause serious damage to the legitimate rights and interests of you or other individuals or organizations;
+6. Involving trade secrets;
+7. To fulfill anti-money laundering and sanctions regulations.
 
-## 六、我方如何保护未成年人信息
+## V. How We Protect Your Personal Information
 
-1. 我方期望父母或监护人指导未成年人使用我方的服务。我们将根据国家相关法律法规的规定保护未成年人的信息的保密性及安全性。
-2. 如您为未成年人，请您的父母或监护人仔细阅读本政策，并在征得您的父母或监护人同意的前提下使用我方的服务或向我方提供信息。如您的监护人不同意您按照本政策使用我方的服务或向我方提供信息，请您立即终止使用我方的服务并及时通知我方，以便我方采取相应的措施。
-3. 对于经父母或法定监护人同意而收集未成年人个人信息的情况，我们只会在受到法律允许、父母或法定监护人明确同意或者保护未成年人所必要的情况下使用或公开披露此信息。如果父母或监护人发现我方在未获父母或监护人同意的情况下收集了未成年人的个人信息，请通过客服热线反馈联系我方，我方会设法尽快删除相关数据。
-4. 未成年人的实名认证信息受实名认证管理机构管理，基于管理机构风险控制的考虑，未成年人的实名认证可能存在无法通过的情况，在此情况下，我方将无法提供相应服务。
+We strive to provide security for users' personal information to prevent loss, misuse, unauthorized access, or public disclosure.
 
-## 七、本政策如何更新
+1. To ensure your information security, we will use industry-standard security protection measures in accordance with legal and regulatory requirements and current technical levels to protect the personal information you provide, and take physical, technical, and administrative security measures to reduce the risk of loss, misuse, unauthorized access, disclosure, and alteration, and do our best to prevent data from unauthorized access, public disclosure, use, modification, damage, or loss. Currently, we have passed the national information security level protection (Level 3) assessment and filing.
+2. In accordance with laws and regulations, we will store your personal information collected and generated during domestic operations within the territory of the People's Republic of China. Currently, we will not transfer the above information overseas.
+3. We have established specialized management systems, processes, and organizations to ensure information security, strictly limit the personnel who can access information, require them to comply with confidentiality obligations, and conduct audits.
+4. If all or part of the convenience services we provide are discontinued, we will notify you through message notifications, pop-ups, etc., and stop collecting your personal information for related services to protect your personal information security. If all or part of the convenience services cannot be used due to technical failures, cyberattacks, natural disasters and accidents, or human factors, we will take emergency response and recovery measures to deal with them and restore services as soon as possible.
+5. The Internet environment is not 100% secure. We will do our best to ensure the security of your personal information. If our physical, technical, or management protection facilities are damaged, resulting in unauthorized access, public disclosure, tampering, destruction, or other personal information leakage security incidents, we will initiate emergency plans to prevent the expansion of security incidents and notify you of relevant situations through message notifications, etc. At the same time, we will report the handling of personal information security incidents as required by regulatory authorities.
+6. When you use this app's services, we will identify your identity through your mobile phone number, name, ID number, or other identity verification information. Please keep the above information properly, including but not limited to using complex passwords, changing passwords regularly, and not disclosing your account password and related personal information to others. Once you disclose the above information, your account information may be leaked, and your personal rights and interests such as fund security may be damaged.
+7. We will take all reasonable and feasible measures to ensure that we do not collect personal information unrelated to the business you handle.
 
-为了给您提供更好的服务，我方及相关服务将不时更新与变化，我们会适时对本隐私政策进行修订，这些修订构成本隐私政策的一部分并具有等同于本隐私政策的效力，未经您明确同意，我方不会削减您依据当前生效的本隐私协议所应享受的权利。
-在相关法律法规发生变化或我方服务发生变动等必要情形下，我方如需对本政策做出修改，将在修订生效前通过在主页弹窗提示的方式再次请您确认，确认后即生效，并取代此前相关内容。您如不同意新的修改内容，请及时与我方联系或立即停止使用本政策约定的服务，如您选择继续使用相关服务，则视为您完全同意并接受新的修改内容。如客观情况及经营方针变化导致我方需要中断或停止相关服务的，我方将及时进行通知，请您对此表示理解和认同。
+## VI. How We Protect Minors' Information
 
-## 八、我方如何向您发送信息
+1. We expect parents or guardians to guide minors in using our services. We will protect the confidentiality and security of minors' information in accordance with relevant national laws and regulations.
+2. If you are a minor, please ask your parents or guardians to read this policy carefully and use our services or provide us with information only after obtaining their consent. If your guardian does not agree with your use of our services or provision of information in accordance with this policy, please immediately stop using our services and notify us in time so that we can take corresponding measures.
+3. For the collection of minors' personal information with the consent of parents or legal guardians, we will only use or publicly disclose this information when permitted by law, with explicit consent from parents or legal guardians, or when necessary to protect minors. If parents or guardians find that we have collected minors' personal information without their consent, please contact us through the customer service hotline, and we will try to delete the relevant data as soon as possible.
+4. The real-name authentication information of minors is managed by the real-name authentication management agency. Based on the risk control considerations of the management agency, minors' real-name authentication may not be approved. In this case, we will not be able to provide corresponding services.
 
-我们可能在必要时（例如因系统维护而暂停某一项服务时）向您发出与服务有关的公告。您可能无法取消这些与服务有关、性质不属于推广的公告。
+## VII. How This Policy Is Updated
 
-## 九、如何联系我方
+To provide you with better services, we and related services will update and change from time to time. We will revise this privacy policy as appropriate. These revisions constitute part of this privacy policy and have the same effect as this privacy policy. Without your explicit consent, we will not reduce the rights you enjoy under the currently effective privacy agreement.
 
-如您对本政策存在任何疑问，或有任何相关的投诉、意见，请联系我方客服（客服邮箱：<cuizhen92@gmail.com>）、或在“个人中心-意见反馈”进行反馈。我方将尽快受理您的请求，并尽快予以回复。
+When relevant laws and regulations change or our services change, if we need to make changes to this policy, we will ask you to confirm again through a pop-up prompt on the homepage before the revision takes effect. After confirmation, it will take effect and replace the previous relevant content. If you do not agree with the new changes, please contact us in time or immediately stop using the services stipulated in this policy. If you choose to continue using the relevant services, you are deemed to fully agree to and accept the new changes. If objective circumstances and business policies change and we need to interrupt or stop related services, we will notify you in time. Please understand and agree to this.
 
-## 十、其它
+## VIII. How We Send Information to You
 
-1. 本政策的成立、生效、履行、解释及纠纷解决，适用中华人民共和国法律，法律无明文规定的，可适用国内通行的惯例。
-2. 本政策无论因何种原因部分无效或不可执行，都不影响本政策其它部分的效力。
-3. 本政策中未尽事宜，按照法律法规和我方相关业务规则及国内通行的惯例办理。
+We may send you service-related announcements when necessary (for example, when a certain service is suspended due to system maintenance). You may not be able to cancel these service-related, non-promotional announcements.
 
-本应用开发者保留对本政策的最终解释权。
+## IX. How to Contact Us
+
+If you have any questions about this policy or have any related complaints or comments, please contact our customer service (customer service email: <cuizhen92@gmail.com>) or provide feedback in "Personal Center - Feedback". We will process your request as soon as possible and reply as soon as possible.
+
+## X. Others
+
+1. The establishment, effectiveness, performance, interpretation, and dispute resolution of this policy are governed by the laws of the People's Republic of China. Where the law is not expressly provided, domestic common practices may apply.
+2. If any part of this policy is invalid or unenforceable for any reason, it does not affect the validity of other parts of this policy.
+3. Matters not covered in this policy shall be handled in accordance with laws and regulations, our relevant business rules, and domestic common practices.
+
+The developer of this app reserves the final interpretation right of this policy.
